@@ -8,6 +8,7 @@ RUN \
     dumb-init \
     bash \
 	git \
+	openssh-client \
 	rsync \
 	ruby \ 
 	ruby-io-console \
